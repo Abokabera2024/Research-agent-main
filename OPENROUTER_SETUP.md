@@ -20,7 +20,7 @@
 OPENROUTER_API_KEY=sk-or-v1-your-actual-key-here
 
 # النماذج المتاحة في OpenRouter
-LLM_MODEL=openai/gpt-4o-mini
+LLM_MODEL=
 EMBEDDING_MODEL=text-embedding-3-small
 
 # عناوين API
