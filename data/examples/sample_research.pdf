@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 200
+>>
+stream
+BT
+/F1 12 Tf
+72 720 Td
+(Research Paper: Statistical Analysis Methods) Tj
+0 -30 Td
+(This paper examines statistical significance testing using t-tests.) Tj
+0 -30 Td
+(Methods: We collected data from 100 participants.) Tj
+0 -30 Td
+(Results: The t-test showed significant differences (p < 0.05).) Tj
+0 -30 Td
+(Conclusion: Statistical validation confirms our hypothesis.) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000053 00000 n 
+0000000125 00000 n 
+0000000348 00000 n 
+0000000565 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+635
+%%EOF
