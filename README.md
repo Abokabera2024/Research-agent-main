@@ -17,7 +17,7 @@ This project is an intelligent system built with Python, aiming to facilitate sc
 1. Make sure all dependencies are installed (see `requirements.txt`).
 2. Run the application with:
    ```bash
-   python main.py
+   python app_streamlit.py
    ```
 3. Follow the instructions in the user interface.
 
