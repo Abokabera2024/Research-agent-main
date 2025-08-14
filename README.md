@@ -218,12 +218,6 @@ License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 
----
 
-Acknowledgments
-
-Inspired by multi-agent research frameworks like GPT-Researcher and Open Deep Research
-
-Thank you to all upstream contributors in the autonomous research agent community
 
 
